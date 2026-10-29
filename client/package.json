@@ -8,14 +8,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@vitejs/plugin-react": "^5.0.4",
     "leaflet": "1.9.4",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "react-leaflet": "5.0.0",
-    "react-router-dom": "^7.9.4"
-  },
-  "devDependencies": {
-    "@vitejs/plugin-react": "^5.0.4",
+    "react-router-dom": "^7.9.4",
     "vite": "^7.1.12"
-  }
+  },
+  "devDependencies": {}
 }
